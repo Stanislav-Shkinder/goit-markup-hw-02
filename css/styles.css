@@ -16,7 +16,7 @@ ul, ol {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    line-height: 1.16667;
+    line-height: 1.17;
 }
 
 .logo-part{
@@ -60,15 +60,13 @@ letter-spacing: 0.02em;
 }
 
 .title-banner{
-    width: 1440px;
-height: 600px;
     background-color: #2e2f42;;
 }
 .title{
     font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -81,7 +79,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
 .button-order:hover,
@@ -108,31 +105,22 @@ color: #434455;
     font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
 }
 .our-team{
-    width: 1440px;
-height: 732px;
    background-color: #f4f4fd;
 }
 .team-card{
-    width: 264px;
-height: 380px;
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #fff;
 }
 .project-card{
-    width: 360px;
-height: 420px;
 background: #fff;
 }
 .footer{
-    width: 1440px;
-height: 312px;
 background: #2e2f42;
 }
 .logo-footer{
@@ -148,7 +136,7 @@ color: #4d5ae5;
     font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
